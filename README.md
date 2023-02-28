@@ -6,6 +6,8 @@ Python ML with pandas introductory course
 
 Install pandas and sklearn to try out.
 
+Open ipynb file using jupyter notebook.
+
 Contains:
 - Intro to ML with basic terminology
 - Decison Tree Models
